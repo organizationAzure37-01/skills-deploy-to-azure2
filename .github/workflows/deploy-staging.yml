@@ -9,8 +9,8 @@ env:
   ###############################################
   ### Replace <kaudel> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: <kaudel>-azure-ttt
-  AZURE_WEBAPP_NAME: <kaudel>-ttt-app
+  DOCKER_IMAGE_NAME: kaudel-azure-ttt
+  AZURE_WEBAPP_NAME: kaudel-ttt-app
   ###############################################
 
 jobs:
